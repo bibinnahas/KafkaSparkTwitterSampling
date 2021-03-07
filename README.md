@@ -2,6 +2,11 @@
 Read tweets into kafka topic and consumer using spark
 
 ## Prerequisites
+### Produce twitter credentials from developer console
+- access_token = "****"
+- access_token_secret = "****"
+- consumer_key = "****"
+- consumer_secret = "****"
 ### Install below packages
 - pip3 install kafka-python
 - pip3 install python-twitter
